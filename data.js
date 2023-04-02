@@ -10,7 +10,7 @@ export const tweetsData = [
         isLiked: false,
         isRetweeted: false,
         uuid: '4b161eee-c0f5-4545-9c4b-8562944223ee',
-    },     
+    },    
     {
         handle: `@Elon ✅`,
         profilePic: `images/musk.png`,
